@@ -35,6 +35,6 @@ end
 while true do
 	printData()
 	os.sleep(1)
-	print("bruh")
+	print("bruh2")
 end
 
